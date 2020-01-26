@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Abhishek" name="com.hotelreview.testPackage.HotelReviewSuiteTestCases" tests="1" failures="0" timestamp="26 Jan 2020 15:38:42 GMT" time="112.105" errors="0">
+  <testcase name="reviewHotel" time="92.172" classname="com.hotelreview.testPackage.HotelReviewSuiteTestCases"/>
+</testsuite>

@@ -1,0 +1,4 @@
+com\hotelreview\beforetestmethods\BeforeTestMethods.class
+com\hotelreview\pagelevelmodule\TripadvisorPageModule.class
+com\hotelreview\testPackage\HotelReviewSuiteTestCases.class
+com\hotelreview\pages\TripadvisorPageElement.class

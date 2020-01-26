@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.mycompany_Assignment2_jar_1.0-SNAPSHOT">
+    <test name="HotelReview" preserve-order="true">
+        <classes>
+            <class name="com.hotelreview.testPackage.HotelReviewSuiteTestCases">
+                <methods>
+                    <include name="reviewHotel"/>
+                </methods>
+            </class>
+        </classes>
+    </test> 
+</suite>
